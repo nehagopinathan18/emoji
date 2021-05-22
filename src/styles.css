@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aquamarine;
+  margin-top: -1.5rem;
+  margin-left: -1rem;
+  margin-right: -2rem;
+  min-height: 40rem;
+  display: block;
+  padding-top: 4rem;
+  overflow: none;
+}
+ul {
+  font-size: 3rem;
+  padding: 1rem;
+}
+input {
+  padding: 1rem;
+  width: 75%;
+  margin-bottom: 2rem;
+}
+.meaning {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: -3rem;
+}
